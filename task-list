@@ -1,0 +1,9 @@
+
+
+-Prompt the configurer for all the info. prior to executing the script.
+  
+ 
+
+-save credential. encrypt it. 
+
+!!use a password file and delete it wiht a script
