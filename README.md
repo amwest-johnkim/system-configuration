@@ -2,6 +2,13 @@
 AmWest desktop and laptop configuration
 
 
+Prior Info Needed
+-Last 4 of Asset Tag
+-Intended User's Preferred Full Name
+-Intended User Account Password
+-Guest Account Password
+-Admin Account Password
+
 <General Req. Spec.>
   a. Settings
   -Power Option
@@ -30,6 +37,8 @@ AmWest desktop and laptop configuration
   -Enable system access by \\systemname/c$
   -Uncheck "SMB 1.0/CIFS File Sharing Support
   
+  -Run Windows Update (at the end)
+  
   b. Apps
   -SEPC
   -OpenDNS
@@ -39,7 +48,8 @@ AmWest desktop and laptop configuration
   -Adobe Acrobat DC
   -Chrome
   
-  
+  c. User Specific Setup
+  -create and place an RDP file with server information inputted.
 
 
 
